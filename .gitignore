@@ -9,6 +9,10 @@ build/
 .idea/jarRepositories.xml
 .idea/compiler.xml
 .idea/libraries/
+**/.idea/modules.xml
+**/.idea/jarRepositories.xml
+**/.idea/compiler.xml
+**/.idea/libraries/
 *.iml
 *.iws
 *.ipr
@@ -52,4 +56,5 @@ bin/
 .vscode/
 
 ### Mac OS ###
+
 .DS_Store
